@@ -1,0 +1,14 @@
+<!Doctype html>
+<html>
+<title> Milestone 1 </title>
+<p>Michael Marino, my major is Information Technology, with a minor in Administration.  </p>
+<img src="/Users/mmari114/Documents/thumbnail_IMG_0466.jpg"/>
+<div id "video_anchor">
+  <video width="400" controls>
+  <source src="<iframe "https://youtu.be/YlUKcNNmywk?t=79 type="video/mp4"
+</video>
+  <div id="youtube_iframe">
+
+</div>
+
+</html>
